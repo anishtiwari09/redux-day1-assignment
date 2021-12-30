@@ -1,0 +1,6 @@
+export const actionType = {
+  INCREMENT: "INCREMENT",
+  DECREMENT: "DECREMENT",
+  MULTIPLY: "MULTIPLY",
+  DIVIDE: "DIVIDE"
+};
